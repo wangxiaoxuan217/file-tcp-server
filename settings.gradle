@@ -1,0 +1,4 @@
+rootProject.name = "MyCommonLib"
+include ':app'
+include ':fileserver'
+
